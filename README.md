@@ -1,4 +1,5 @@
-Recurrent Neural Network
+# BreadcrumbsRecurrent-Neural-Network-RNN-by-The-AI
+
 1. super basic code:
    1.  Notebook: Basic_RNN_Tensorflow.ipynb
    2.  dataset: self made in notebook
